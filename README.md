@@ -12,7 +12,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=header"/>
 </p>
 
----
+<p align="center">
+<a href="https://amanxr.gumroad.com/">
+<img src="https://img.shields.io/badge/🛒%20Visit%20My%20Gumroad%20Store-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black"/>
+</a>
+</p>
+
 
 <h2 align="center"><font color="#00F7FF">🧰 Tech Stack</font></h2>
 
