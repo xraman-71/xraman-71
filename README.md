@@ -35,21 +35,13 @@
 <p align="center">
 
 🎓 Medical student exploring <b><font color="#00F7FF">technology + AI development</font></b>
-
 <br><br>
-
 🧠 Building <b><font color="#22C55E">AI-Driven Minimalist WebApps</font></b>
-
 <br><br>
-
 🌐 Creating <b><font color="#F59E0B">Chrome / Browser Extensions</font></b>
-
 <br><br>
-
 ⚡ Focused on <b><font color="#00F7FF">fast development using AI tools and modern frameworks</font></b>
-
 <br><br>
-
 💡 Turning <b><font color="#7C3AED">simple ideas → fully functional webapps</font></b>
 
 </p>
