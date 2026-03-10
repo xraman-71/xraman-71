@@ -68,43 +68,68 @@
 </p>
 
 ---
-<h2 align="center">🚀 My Projects</h2>
 
-<p align="center">
+<h2 align="center">🚀 Featured Projects</h2>
 
-<a href="https://xraman-71.github.io/pixeltools/">
-<img src="https://i.ibb.co/Cp0yGtwQ/1.jpg" width="220"/>
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://xraman-71.github.io/pixeltools/"_blank">
+<img src="https://i.ibb.co/FLV7y7Rk/7.jpg" width="200" alt="Project 1"/>
 </a>
+<br><b>Professional Image Tools
+Right in Your Browser</b>
+</td>
 
-<a href="https://yourproject2.com">
-<img src="https://your-image-link2.png" width="260"/>
+<td align="center">
+<a href="https://xraman-71.github.io/pdftoools/"_blank">
+<img src="https://i.ibb.co/HTts1Q0L/2.png" width="200" alt="Project 2"/>
 </a>
+<br><b>Professional PDF Tools. 
+Zero Compromises.</b>
+</td>
 
-<a href="https://yourproject3.com">
-<img src="https://your-image-link3.png" width="260"/>
+<td align="center">
+<a href="https://xraman-71.github.io/Deep-Work-Tab-Manager-project/"_blank">
+<img src="https://i.ibb.co/hJ1Fz5Pw/3.jpg" width="200" alt="Project 3"/>
 </a>
+<br><b>
+Freeze your tabs.
+Clear your mind.</b>
+</td>
 
-</p>
+</tr>
 
-<p align="center">
+<tr>
 
-<a href="https://yourproject4.com">
-<img src="https://your-image-link4.png" width="260"/>
+<td align="center">
+<a href="https://xraman-71.github.io/qrcode.co/#"_blank">
+<img src="https://i.ibb.co/WNs0wpB6/4.jpg" width="200" alt="Project 4"/>
 </a>
+<br><b>QR codes generated
+inside your browser.</b>
+</td>
 
-<a href="https://yourproject5.com">
-<img src="https://your-image-link5.png" width="260"/>
+<td align="center">
+<a href="https://xraman-71.github.io/invoice.tool/"_blank">
+<img src="https://i.ibb.co/C5f1LhR9/5.jpg" width="200" alt="Project 5"/>
 </a>
+<br><b>Free Invoice Generator
+PDF & Excel in Minutes</b>
+</td>
 
-<a href="https://yourproject6.com">
-<img src="https://your-image-link6.png" width="260"/>
+<td align="center">
+<a href="Phttps://xraman-71.github.io/lightmetr.io/" target="_blank">
+<img src="https://i.ibb.co/FbZ1WRLK/6.jpg" width="200" alt="Project 6"/>
 </a>
+<br><b>Estimate Your
+Electricity Bill
+Instantly</b>
+</td>
 
-<p align="center">
-
-<a href="YOUR_PROJECT_LINK">
-<img src="PROJECT_IMAGE_URL" width="220"/>
-</a>
+</tr>
+</table>
 
 </p>
 
