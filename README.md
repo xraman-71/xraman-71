@@ -120,7 +120,7 @@ PDF & Excel in Minutes</b>
 </td>
 
 <td align="center">
-<a href="Phttps://xraman-71.github.io/lightmetr.io/" target="_blank">
+<a href="https://xraman-71.github.io/lightmetr.io/"_blank">
 <img src="https://i.ibb.co/FbZ1WRLK/6.jpg" width="200" alt="Project 6"/>
 </a>
 <br><b>Estimate Your
