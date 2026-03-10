@@ -68,6 +68,46 @@
 </p>
 
 ---
+<h2 align="center">🚀 My Projects</h2>
+
+<p align="center">
+
+<a href="https://xraman-71.github.io/pixeltools/">
+<img src="https://i.ibb.co/Cp0yGtwQ/1.jpg" width="260"/>
+</a>
+
+<a href="https://yourproject2.com">
+<img src="https://your-image-link2.png" width="260"/>
+</a>
+
+<a href="https://yourproject3.com">
+<img src="https://your-image-link3.png" width="260"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://yourproject4.com">
+<img src="https://your-image-link4.png" width="260"/>
+</a>
+
+<a href="https://yourproject5.com">
+<img src="https://your-image-link5.png" width="260"/>
+</a>
+
+<a href="https://yourproject6.com">
+<img src="https://your-image-link6.png" width="260"/>
+</a>
+
+<p align="center">
+
+<a href="YOUR_PROJECT_LINK">
+<img src="PROJECT_IMAGE_URL" width="260"/>
+</a>
+
+</p>
+
 
 <h2 align="center"><font color="#F59E0B">🔥 GitHub Streak</font></h2>
 
