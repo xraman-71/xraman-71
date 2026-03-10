@@ -103,7 +103,7 @@
 <p align="center">
 
 <a href="YOUR_PROJECT_LINK">
-<img src="PROJECT_IMAGE_URL" width="260"/>
+<img src="PROJECT_IMAGE_URL" width="220"/>
 </a>
 
 </p>
