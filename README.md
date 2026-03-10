@@ -73,7 +73,7 @@
 <p align="center">
 
 <a href="https://xraman-71.github.io/pixeltools/">
-<img src="https://i.ibb.co/Cp0yGtwQ/1.jpg" width="260"/>
+<img src="https://i.ibb.co/Cp0yGtwQ/1.jpg" width="220"/>
 </a>
 
 <a href="https://yourproject2.com">
