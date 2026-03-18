@@ -75,7 +75,7 @@
 <tr>
 
 <td align="center">
-<a href="https://xraman-71.github.io/pixeltools/"_blank">
+<a href="https://www.producthunt.com/products/pixeltools"_blank">
 <img src="https://i.ibb.co/FLV7y7Rk/7.jpg" width="200" alt="Project 1"/>
 </a>
 <br><b>Professional Image Tools
@@ -104,7 +104,7 @@ Clear your mind.</b>
 <tr>
 
 <td align="center">
-<a href="https://xraman-71.github.io/qrcode.co/#"_blank">
+<a href="https://www.producthunt.com/products/qrcode-co-free-instant-qr-code-generator"_blank">
 <img src="https://i.ibb.co/WNs0wpB6/4.jpg" width="200" alt="Project 4"/>
 </a>
 <br><b>QR codes generated
