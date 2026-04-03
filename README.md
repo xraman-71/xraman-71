@@ -83,7 +83,7 @@ Right in Your Browser</b>
 </td>
 
 <td align="center">
-<a href="https://xraman-71.github.io/pdftoools/"_blank">
+<a href="https://www.producthunt.com/p/self-promotion/pdf-toools-hub-free-online-pdf-toolkit-merge-split-redact-more"_blank">
 <img src="https://i.ibb.co/HTts1Q0L/2.png" width="200" alt="Project 2"/>
 </a>
 <br><b>Professional PDF Tools. 
@@ -112,7 +112,7 @@ inside your browser.</b>
 </td>
 
 <td align="center">
-<a href="https://xraman-71.github.io/invoice.tool/"_blank">
+<a href="https://www.producthunt.com/products/invoiceflow-fast-free-invoice-creator"_blank">
 <img src="https://i.ibb.co/C5f1LhR9/5.jpg" width="200" alt="Project 5"/>
 </a>
 <br><b>Free Invoice Generator
